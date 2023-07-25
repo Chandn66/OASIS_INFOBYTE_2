@@ -1,0 +1,36 @@
+h1,h4{
+    text-align: center;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+#quote{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.container{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-content: space-between;
+    
+}
+.box1{
+    color: white;
+    width: 700px;
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align:justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.box2{
+    
+    width: 750px;
+    background-image: url(../TASK_2/AP.jpg);
+    background-size: cover;
+}
